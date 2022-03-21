@@ -1,0 +1,28 @@
+{
+  "nfts": [
+    {
+      "id": 1,
+      "name": "nft1"
+    },
+    {
+      "id": 2,
+      "name": "nft2"
+    },
+    {
+      "id": 3,
+      "name": "nft3"
+    },
+    {
+      "id": 4,
+      "name": "nft4"
+    },
+    {
+      "id": 5,
+      "name": "nft5"
+    },
+    {
+      "id": 6,
+      "name": "nft6"
+    }
+  ]
+}

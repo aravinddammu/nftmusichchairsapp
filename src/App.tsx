@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
           React Typescript
       </header>
-      <TestComponent name="world" />
+      <TestComponent name="aravind" />
     </div>
   );
 }
