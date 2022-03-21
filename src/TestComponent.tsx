@@ -28,15 +28,14 @@ export default function TestComponent<T extends nft>(props: Props) {
         } catch (error) {
           console.log(error);
         }
-      })
-      
+      })      
       ();
     }
   }, [metaState.isAvailable, web3interface]);
 
   useEffect(()=>{
-    const account = getAccounts();
-    console.log("account: ", account);
+    const accounts = getAccounts();
+    console.log("accounts: ", accounts);
   },[metaState.isConnected])
 
   useEffect(() => {
