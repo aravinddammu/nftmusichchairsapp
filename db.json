@@ -24,5 +24,27 @@
       "id": 6,
       "name": "nft6"
     }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "name": "account 1",
+      "address": "0xdb59B1d5eDba7e7E7A63Fef63C29EfE66620536A"
+    },
+    {
+      "id": 2,
+      "name": "account 2",
+      "address": "0x3990a5c0dB76754FC19d4f5222F369e99B228B1c"
+    },
+    {
+      "id": 3,
+      "name": "account 3",
+      "address": "0xFEc0518924E3348bCdeF87716a6608c7202E24Cd"
+    },
+    {
+      "id": 4,
+      "name": "account 4",
+      "address": "0xECf20f7b1DC262DE80a0ADDeFAd3EAa561DCa88b"
+    }
   ]
 }
